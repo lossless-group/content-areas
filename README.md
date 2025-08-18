@@ -41,7 +41,18 @@ On Windows, open the Command Prompt app as an Administrator and paste:
 mklink /J "C:\Users\97152\OneDrive\Desktop\My TWF\content-areas" "C:\Users\97152\OneDrive\Documents\GitHub\content-areas" 
 ```
  
+`C:\Users\97152\code\obsidian-plugins`
+
+# Starting the plug-ins everytime
+`[https://nodejs.org/en/download/current](https://nodejs.org/en/download/current)`
+[https://nodejs.org/en/download/current](https://nodejs.org/en/download/current)
+## On windows 
+
+```bash
+
+```
 
 
+https://github.com/lossless-group/cite-wide.git 
 
 
