@@ -36,6 +36,15 @@ Go to our GitHub repository content-domains, with needs to be on your local comp
 
 and clone it on your computer using GitHub desktop. 
 
+### A note on learning Git and GitHub
+Need to know:
+`repository` or repo
+`remote` is the repo on the Internet, we are using GitHub so it will be on GitHub at [content-areas](https://github.com/lossless-group/content-areas.git)
+`push`
+`pull`
+`branch`
+`checkout`
 
+Hi Divya
 
 
