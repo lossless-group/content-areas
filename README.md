@@ -36,6 +36,12 @@ Go to our GitHub repository content-domains, with needs to be on your local comp
 
 and clone it on your computer using GitHub desktop. 
 
+On Windows, open the Command Prompt app as an Administrator and paste: 
+```bash
+mklink /J "C:\Users\97152\OneDrive\Desktop\My TWF\content-areas" "C:\Users\97152\OneDrive\Documents\GitHub\content-areas" 
+```
+ 
+
 
 
 
