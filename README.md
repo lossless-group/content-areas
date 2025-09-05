@@ -80,15 +80,22 @@ choco install nvm
 
 
 
-Go to our GitHub repository content-domains, with needs to be on your local computer only 
-
-and clone it on your computer using GitHub desktop. 
-
+Go to our GitHub repository content-domains, with needs to be on your local computer only and clone it on your computer using GitHub desktop. 
 
 ### Install Node with Node Version Manager
 ```
 nvm install 22
 ```
+=======
+### A note on learning Git and GitHub
+Need to know:
+`repository` or repo
+`remote` is the repo on the Internet, we are using GitHub so it will be on GitHub at [content-areas](https://github.com/lossless-group/content-areas.git)
+`push`
+`pull`
+`branch`
+`checkout`
+
 
 ### Install pnpm
 ```powershell

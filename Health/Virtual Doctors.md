@@ -34,7 +34,7 @@ Virtual clinicians deliver healthcare through technologies such as video confere
 
 Real-world applications of virtual clinicians are diverse and rapidly expanding. 
 - **[[Virtual Visits]]:** Patients consult with physicians or specialists via video or phone for acute or chronic conditions—ranging from a primary care visit for flu symptoms to a specialist review of a skin lesion using uploaded photos. [^mqks2q]
-- **[[Remote Patient Monitoring]]:** Individuals with chronic illnesses (such as diabetes or heart disease) use wearable devices that continuously transmit data to virtual nurses or doctors, who monitor trends and intervene if problems arise. [^0ehrxa] [^mqks2q]
+- **[[Vocabulary/Remote Patient Monitoring]]:** Individuals with chronic illnesses (such as diabetes or heart disease) use wearable devices that continuously transmit data to virtual nurses or doctors, who monitor trends and intervene if problems arise. [^0ehrxa] [^mqks2q]
 - **Telehealth Nurses:** Registered nurses monitor patient vitals, oversee chronic conditions, educate patients, and identify warning signs—all online or via app-based platforms. [^0ehrxa]
 - **[[AI-Powered Clinicians]]:** Some platforms use artificial intelligence to provide preliminary triage advice, symptom checking, and even digital diagnostics before escalating to a human provider as needed. [^lf87ot]
 
