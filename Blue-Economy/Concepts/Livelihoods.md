@@ -7,7 +7,7 @@ at_semantic_version: 0.0.0.1
 date_created: 2025-04-12
 date_modified: 2025-08-16
 ---
-[[concepts/Cost of Living|Cost of Living]]
+[[content-areas/Blue-Economy/Cost of Living|Cost of Living]]
 
 [[organizations/IKEA Foundation|IKEA Foundation]]
 
