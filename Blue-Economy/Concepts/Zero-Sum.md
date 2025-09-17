@@ -7,6 +7,6 @@ at_semantic_version: 0.0.0.1
 date_created: 2025-08-16
 date_modified: 2025-08-16
 ---
-[[Sources/Books/Non-Zero|Non-Zero]]
+[[Sources/Books/NonZero|NonZero]]
 
 
