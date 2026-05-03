@@ -1,11 +1,12 @@
 ---
 date_created: 2025-11-02
-date_modified: 2025-11-11
+date_modified: 2025-11-24
 site_uuid: ccd4177f-f85b-41bf-9989-5037474971b3
 publish: true
 title: Gardyn
 slug: gardyn
 at_semantic_version: 0.0.0.1
+url: https://mygardyn.com/
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2025-12-26
 ---
 
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We’re in a weird era for startups where perception has become the moat. Raise early, get labeled a “category leader,” and that perception attracts capital, customers, and talent until it’s no longer perception. The irony is many kings were crowned long before they’d earned it.</p>&mdash; Hadley Harris (@Hadley) <a href="https://twitter.com/Hadley/status/1976678770091475084?ref_src=twsrc%5Etfw">October 10, 2025</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></blockquote> 
 
 ***
 > [!info] **Perplexity Query** (2025-08-16T15:47:38.694Z)
