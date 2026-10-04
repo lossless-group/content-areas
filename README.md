@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-18
+date_modified: 2026-10-04
 ---
 # Content Areas || Opening Up Content
 
@@ -8,7 +8,7 @@ Opening up Content to new topics while keeping the Lossless content clean.
 
 A "Content Area", is a cluster of topics, organizations, projects, initiatives, concepts, vocabulary, etc that become the shared knowledge and experience set of professionals in an industry, space, cause. 
 
-In the [[concepts/Public Repository|Public Repository]], you will see folders that are Capitalized, these are the content areas we are building out together. As of August 2024, the areas are Blue-Economy, Health, and Finance. The folders that are not capitalized will be treated a little differently. Now, there's only one called "general"
+In the [[concepts/Public Repository|Public Repository]], you will see folders that are Capitalized, these are the content areas we are building out together. As of October 2026, the areas are Blue-Economy, Health, Finance, and AI-Factories-Datacenters. The folders that are not capitalized will be treated a little differently. Now, there's only one called "general"
 
 The "general" folder serves two purposes:
 1. a catch-all when content creators are unsure where something should go
@@ -22,11 +22,14 @@ The Area folders and the general folder should have the same folder structure. T
 2. Blue-Economy (Water, Sustainabilty & Innovation & Issues)
 3. Finance
 
+**Added October 2026:**
+4. AI-Factories-Datacenters (AI factories, datacenters, and the compute, power, cooling, and financing stack behind them)
+
 **Expected in the future:**
 1. Economics & Prosperity
 2. Education & EdTech
 3. Energy
-4. Computing & AI Infrastructure
+4. Computing & AI Infrastructure (started October 2026 as `AI-Factories-Datacenters`)
 5. AgTech & FoodTech
 6. FinTech & RegTech
 
