@@ -28,7 +28,7 @@ cf_last_run_retrieval: 2026-10-04T22:05:13.115Z
 ---
 
 [[content-areas/AI-Factories-Datacenters/Organizations/Integrated Power Services|Integrated Power Services]]
-[[concepts/Market-Categories/Integrated Electrical and Mechanical Systems]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems]]
 [[Industrial Automation]]
 [[concepts/Market-Categories/Manufacturing Automation|Manufacturing Automation]]
 [[concepts/Sustainability Reporting|Sustainability Reporting]]

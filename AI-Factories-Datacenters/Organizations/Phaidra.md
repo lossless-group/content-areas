@@ -161,7 +161,7 @@ It is not primarily aimed at small businesses, ordinary office-building users, c
 - **AVEVA industrial software:** An alternative for industrial data integration, visualization, digital twins, and operational optimization.
 - **Traditional DCIM platforms:** Suitable for organizations prioritizing monitoring, asset management, capacity planning, and workflow control over autonomous AI-based optimization.
 
-The available results identify [[content-areas/AI-Factories-Datacenters/Organizations/Schneider Electric|Schneider Electric]], [[AVEVA]], Siemens, [[content-areas/AI-Factories-Datacenters/Organizations/Eaton|Eaton]], [[Vertiv]], and [[content-areas/AI-Factories-Datacenters/Organizations/Phaidra|Phaidra]] together in the AI-cluster energy-attribution and infrastructure-optimization landscape, but do not provide a reliable head-to-head win-rate comparison. [10]
+The available results identify [[content-areas/AI-Factories-Datacenters/Organizations/Schneider Electric|Schneider Electric]], [[content-areas/AI-Factories-Datacenters/Organizations/AVEVA]], Siemens, [[content-areas/AI-Factories-Datacenters/Organizations/Eaton|Eaton]], [[Vertiv]], and [[content-areas/AI-Factories-Datacenters/Organizations/Phaidra|Phaidra]] together in the AI-cluster energy-attribution and infrastructure-optimization landscape, but do not provide a reliable head-to-head win-rate comparison. [10]
 
 ### Competitor Table
 

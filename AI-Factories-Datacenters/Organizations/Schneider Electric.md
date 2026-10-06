@@ -16,7 +16,7 @@ for_clients:
   - Edviro
 ---
 
-[[concepts/Market-Categories/Integrated Electrical and Mechanical Systems]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems]]
 
 
 > [!QUOTE]
@@ -54,7 +54,7 @@ Schneider Electric sells electrical, automation, control, software, and services
 - **Secure power and data centers:** UPS systems, prefabricated power, data-center infrastructure, and AI-ready solutions. [^1pzkba]
 - **Software and services:** [[Energy Intelligence]], operational software, and lifecycle services. [^kkz8as] [^608d8x]
 - **Digital buildings:** Building-management and control technologies designed to improve efficiency and sustainability. [^kkz8as]
-- **[[Liquid Cooling]]:** Coolant-distribution units and direct-to-chip systems for high-density AI and [[Vocabulary/Graphics Processing Units|GPU]] environments. [^jscqq7] [^ax36ax]
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Liquid Cooling Systems]]:** Coolant-distribution units and direct-to-chip systems for high-density AI and [[Vocabulary/Graphics Processing Units|GPU]] environments. [^jscqq7] [^ax36ax]
 - **Energy and industrial intelligence:** Architectures connecting electricity, operations, data, software, and AI. [^608d8x]
 
 ## Leadership and People
@@ -115,7 +115,7 @@ As of 2026-10-04,
 
 ## Adjacent Entries
 
-- [[AVEVA]]
+- [[content-areas/AI-Factories-Datacenters/Organizations/AVEVA]]
 - [[ETAP]]
 - [[Planon]]
 - [[NVIDIA]]

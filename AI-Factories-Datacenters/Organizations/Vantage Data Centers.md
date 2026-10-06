@@ -44,7 +44,7 @@ Vantage provides IT services and IT consulting, and operates as a global provide
 
 Vantage Data Centers designs, develops, and operates large-scale wholesale data-center campuses for hyperscalers, cloud providers, and large enterprises. Its proposition centers on delivering scalable capacity for AI and cloud workloads across multiple global markets. [^E1] [^xyp4nn]
 
-Core features include [[Rack-Ready]] and whitespace capacity, [[Build-to-Suit Development]] development, and campuses designed for high-density AI infrastructure. [^xyp4nn]
+Core features include [[Rack-Ready]] and whitespace capacity, [[concepts/Build-to-Suit Development]] development, and campuses designed for high-density AI infrastructure. [^xyp4nn]
 
 Priority features:
 
