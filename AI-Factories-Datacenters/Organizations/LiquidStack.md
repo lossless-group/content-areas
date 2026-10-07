@@ -25,8 +25,8 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[content-areas/AI-Factories-Datacenters/Concepts/Liquid Cooling Systems|Liquid Cooling]]
-[[concepts/Market-Categories/Datacenter Operations|Datacenter Operations]]
-[[Thermal-Management]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Thermal Management]]
 
 
 [^9k00ix]: 2026, Sep 30. "[LiquidStack unveils liquid-cooling platform targeting AI  data centers | Network World](https://www.networkworld.com/article/4229068/liquidstack-unveils-liquid-cooling-platform-targeting-ai-data-centers.html)". Andy Patrizio. [Network World](https://www.networkworld.com).
@@ -100,7 +100,7 @@ It is not a conventional software product, consumer cooling product, or low-dens
 ## Viable Alternatives
 
 - **[[CoolIT Systems]]** — A direct competitor in liquid-cooling infrastructure and coolant distribution for high-density data centers; no comparative product details were found in the available results.
-- **[[Vertiv]]** — A major data-center power and cooling infrastructure provider; no LiquidStack-specific comparison was found in the available results.
+- **[[Tooling/AI-Toolkit/AI Infrastructure/Vertiv]]** — A major data-center power and cooling infrastructure provider; no LiquidStack-specific comparison was found in the available results.
 - **[[content-areas/AI-Factories-Datacenters/Organizations/Schneider Electric|Schneider Electric]]** — Provides data-center thermal-management infrastructure and liquid-cooling solutions; no product-level comparison was found in the available results.
 - **[[ZutaCore]]** — A liquid-cooling company serving high-density computing; no directly comparable specifications were found in the available results.
 - **[[content-areas/AI-Factories-Datacenters/Organizations/Submer Group|Submer]]** — A data-center liquid-cooling provider; no directly comparable specifications were found in the available results.

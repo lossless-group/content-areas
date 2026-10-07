@@ -81,7 +81,7 @@ The boundary is disputed at the edges: some operators include on-site generation
 # Market Incumbents
 
 - [Schneider Electric](https://www.se.com) — Global electrical distribution, UPS, power-management, cooling, and data-center infrastructure provider serving hyperscale, colocation, and enterprise facilities.
-- [Vertiv](https://www.vertiv.com) — [[Vertiv]] — Public critical-digital-infrastructure company spanning power, thermal management, modular systems, monitoring, and lifecycle services for data centers.
+- [Vertiv](https://www.vertiv.com) — [[Tooling/AI-Toolkit/AI Infrastructure/Vertiv]] — Public critical-digital-infrastructure company spanning power, thermal management, modular systems, monitoring, and lifecycle services for data centers.
 - [Eaton](https://www.eaton.com) — Large electrical-equipment incumbent supplying switchgear, UPS, power distribution, energy-management, and data-center electrical systems.
 - [Johnson Controls](https://www.johnsoncontrols.com) — Building-systems incumbent supplying chillers, controls, automation, fire/life-safety, and data-center cooling infrastructure.
 - [Siemens](https://www.siemens.com) — Global electrification, automation, building-controls, and industrial-infrastructure supplier relevant to data-center power and facility integration.
@@ -171,7 +171,7 @@ The boundary is disputed at the edges: some operators include on-site generation
 - [TAR / Transformative American Resources](https://www.taramerica.com) — Early-stage developer of modular on-site power systems for AI data centers.
 - [Omen AI](https://omen.ai) — [[content-areas/AI-Factories-Datacenters/Organizations/Omen AI|Omen AI]] — Early-stage cooling company included in recent funding activity around AI data-center thermal management.
 - [Orbital Industries](https://orbitalindustries.com) — [[Orbital Industries]] — Early-stage cooling-infrastructure company targeting AI data-center thermal constraints.
-- [Barocal](https://www.barocal.com) — [[Tooling/AI-Toolkit/AI Infrastructure/Barocal]] — Early-stage thermal-management company included in the emerging AI cooling-finance cohort.
+- [Barocal](https://www.barocal.com) — [[content-areas/AI-Factories-Datacenters/Organizations/Barocal]] — Early-stage thermal-management company included in the emerging AI cooling-finance cohort.
 - [Starcloud](https://www.starcloud.com) — [[Starcloud]] — Early-stage infrastructure venture associated with physical AI-compute capacity and data-center financing.
 
 #### Claros

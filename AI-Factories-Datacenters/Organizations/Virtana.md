@@ -27,7 +27,7 @@ cf_last_run_retrieval: 2026-10-05T00:02:02.171Z
 ---
 
 [[Real-World Telemetry]]
-[[concepts/Market-Categories/Datacenter Operations]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations]]
 [[Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|Hyperscale Datacenters]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]

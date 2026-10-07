@@ -130,7 +130,7 @@ Data-center cooling is a substantial energy problem: Corintis’s recruiting mat
 
 Corintis is aimed at semiconductor designers, AI-infrastructure companies, data-center operators, and cloud providers that need to dissipate heat from increasingly dense GPUs, CPUs, and other high-power processors. [^qyh1qi]
 
-It is not positioned as a general-purpose software cooling optimizer, consumer electronics product, or standard facility-level HVAC vendor; its differentiation is hardware integrated into the semiconductor cooling path. [^E1] This makes it complementary to broader [[concepts/Market-Categories/Datacenter Operations|Datacenter Operations]] tooling rather than a direct substitute for it.
+It is not positioned as a general-purpose software cooling optimizer, consumer electronics product, or standard facility-level HVAC vendor; its differentiation is hardware integrated into the semiconductor cooling path. [^E1] This makes it complementary to broader [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]] tooling rather than a direct substitute for it.
 
 ## Viable Alternatives
 

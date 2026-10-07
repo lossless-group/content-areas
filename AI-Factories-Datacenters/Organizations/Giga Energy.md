@@ -99,7 +99,7 @@ No reliable analyst-firm or financial-journalism market-size estimate for Giga E
 | --------------------------------------- | ----------------: |
 | AI data-center modules                  | No public pricing |
 | Electrical equipment                    | No public pricing |
-| Powered-land or [[concepts/Market-Categories/Colocation Services]] | No public pricing |
+| Powered-land or [[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services]] | No public pricing |
 | Turnkey development                     | No public pricing |
 
 # Competitive Landscape

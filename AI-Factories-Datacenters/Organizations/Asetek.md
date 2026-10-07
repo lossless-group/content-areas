@@ -42,7 +42,7 @@ Its products serve two principal areas: liquid cooling for servers, data centers
 - **RaceHub software and device-management tooling** for configuring compatible sim-racing hardware. [1]
 - **OEM and partner integration** with major computer and server manufacturers. [^E1]
 
-Asetek fits naturally within [[concepts/Market-Categories/Datacenter Operations|Datacenter Operations]] because its cooling systems address thermal management for servers and high-density computing environments.
+Asetek fits naturally within [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]] because its cooling systems address thermal management for servers and high-density computing environments.
 
 # History and Origin Story
 

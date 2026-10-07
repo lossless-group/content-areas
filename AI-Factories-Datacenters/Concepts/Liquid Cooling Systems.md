@@ -5,11 +5,15 @@ title: Liquid Cooling
 slug: liquid-cooling
 at_semantic_version: 0.0.0.1
 date_created: 2026-10-04
-date_modified: 2026-10-05
+date_modified: 2026-10-07
 aliases:
   - Liquid Cooling
   - Liquid Cooling Systems
   - liquid-cooling systems
+  - Liquid-cooling
+  - liquid cooling
+  - liquid-cooling
+  - Data Center Liquid Cooling
 cf_last_run: 2026-10-04T23:38:35.496Z
 cf_last_run_model: Perplexity sonar-pro
 ---
@@ -17,8 +21,9 @@ cf_last_run_model: Perplexity sonar-pro
 
 [[Vocabulary/Graphics Processing Units|GPU Cluster]]
 [[Vocabulary/Data Centers|Datacenters]]
-[[Tooling/AI-Toolkit/AI Infrastructure/Barocal]]
+[[content-areas/AI-Factories-Datacenters/Organizations/Barocal|Barocal]]
 [[concepts/Market-Categories/Integrated Design-Build|Integrated Design-Build]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Thermal Management|Thermal Management]]
 
 # Snapshot
 

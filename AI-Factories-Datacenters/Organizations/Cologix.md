@@ -24,7 +24,7 @@ for_clients:
 
 [[concepts/Explainers for AI/Edge AI|Edge AI]]
 [[Hyperscale Cloud Providers|Hyperscalers]]
-[[concepts/Market-Categories/Colocation Services|Colocation]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]
 
 ## Retrieved sources
 
@@ -36,7 +36,7 @@ Cologix provides **network-neutral colocation, interconnection, cloud connectivi
 
 Core features:
 
-- **[[concepts/Market-Categories/Colocation Services|Colocation]]:** Data-center space and infrastructure for enterprises, carriers, cloud providers, and technology companies. [^E1]
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]:** Data-center space and infrastructure for enterprises, carriers, cloud providers, and technology companies. [^E1]
 - **Interconnection:** Neutral facilities designed to connect networks and customers within shared data-center environments. [^E1]
 - **Cloud connectivity:** Direct connectivity between customers and cloud providers. [^E1]
 - **Edge-market footprint:** Facilities positioned in major North American markets to support distributed infrastructure needs. [^E1]
@@ -102,9 +102,9 @@ It is not positioned as a general-purpose public-cloud platform or a consumer ho
 ## Viable Alternatives
 
 - **[[content-areas/AI-Factories-Datacenters/Organizations/Equinix|Equinix]]:** A major global colocation and interconnection provider competing for enterprise, carrier, and cloud-connectivity workloads. [^7ijwhg]
-- **[[Digital Realty]]:** A large digital-infrastructure and data-center operator serving enterprise and cloud customers. [^7ijwhg]
-- **[[DataBank]]:** A competing data-center and edge-infrastructure provider identified alongside Cologix in industry coverage. [^72gjgf]
-- **[[Flexential]]:** A competing colocation and data-center operator with overlapping enterprise and network-provider use cases. [^72gjgf]
+- **[[content-areas/AI-Factories-Datacenters/Organizations/Digital Realty]]:** A large digital-infrastructure and data-center operator serving enterprise and cloud customers. [^7ijwhg]
+- **[[Tooling/AI-Toolkit/AI Infrastructure/DataBank]]:** A competing data-center and edge-infrastructure provider identified alongside Cologix in industry coverage. [^72gjgf]
+- **[[Tooling/AI-Toolkit/AI Infrastructure/Flexential]]:** A competing colocation and data-center operator with overlapping enterprise and network-provider use cases. [^72gjgf]
 - **[[content-areas/AI-Factories-Datacenters/Organizations/QTS Data Centers|QTS Data Centers]]:** A competing data-center provider serving large-scale enterprise and hyperscale requirements. [^7ijwhg]
 
 ## Competitor Table

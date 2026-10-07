@@ -45,7 +45,7 @@ financials:
 
 ## Value Proposition & Features
 
-Bild is a **cloud-native [[concepts/Market-Categories/PDM-PLM Platforms|PDM]]/PLM platform** for mechanical and multidisciplinary hardware teams, focused on version control, BOM management, supplier collaboration, and engineering change workflows. Its positioning emphasizes replacing server-, vault-, database-, and VPN-dependent legacy systems with browser- and desktop-accessible tooling.[1] [^E1]
+Bild is a **cloud-native [[content-areas/AI-Factories-Datacenters/Concepts/PDM-PLM Platforms|PDM]]/PLM platform** for mechanical and multidisciplinary hardware teams, focused on version control, BOM management, supplier collaboration, and engineering change workflows. Its positioning emphasizes replacing server-, vault-, database-, and VPN-dependent legacy systems with browser- and desktop-accessible tooling.[1] [^E1]
 
 Core capabilities include CAD file and revision management, item and BOM control, engineering change orders, metadata governance, design reviews, supplier access, and automated file generation. Bild supports workflows across SolidWorks, Creo, and other engineering systems.[^E1]
 

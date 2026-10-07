@@ -105,7 +105,7 @@ A comparative snapshot of several incumbents’ roles and footprints helps ancho
 
 #### [Digital Realty](https://www.digitalrealty.com)
 
-**Stage**: Public (NYSE: DLR). [^3wg2e6] [[Digital Realty]] Trust, Inc. operates through a REIT parent and an operating partnership structure, functioning as a globally diversified data center business with extensive disclosures via its Form 10‑K. [^3wg2e6]
+**Stage**: Public (NYSE: DLR). [^3wg2e6] [[content-areas/AI-Factories-Datacenters/Organizations/Digital Realty]] Trust, Inc. operates through a REIT parent and an operating partnership structure, functioning as a globally diversified data center business with extensive disclosures via its Form 10‑K. [^3wg2e6]
 
 **Funding**: As a publicly listed REIT‑style operator, Digital Realty raises equity and debt to finance acquisitions, expansions and developments across its portfolio. Its 2025 Form 10‑K highlights a large asset base and recurring rental revenue, with a portfolio that is 84.7% leased and diversified across more than 5,000 customers. [^3wg2e6] While specific revenue figures are summarized across rental and service streams, the combination of high occupancy, long‑term leases and geographic diversification illustrates a funding profile anchored in stable cash flows attractive to income‑oriented investors. [^3wg2e6]
 

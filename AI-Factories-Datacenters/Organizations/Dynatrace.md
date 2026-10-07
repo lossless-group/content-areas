@@ -27,7 +27,7 @@ cf_last_run_retrieval: 2026-10-06T01:31:32.350Z
 
 [[concepts/Explainers for Tooling/Observability Platforms|Observability Platforms]]
 [[Vocabulary/Observability|Observability]]
-[[concepts/Market-Categories/Datacenter Operations|Datacenter Operations]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Operations|Datacenter Operations]]
 
 # Dynatrace
 

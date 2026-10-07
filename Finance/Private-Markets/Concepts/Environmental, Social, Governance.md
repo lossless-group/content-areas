@@ -1,7 +1,10 @@
 ---
-aliases: [ESG]
+aliases:
+  - ESG
+  - ESG compliance
+  - ESG Compliance
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2026-10-06
 authors:
   - Michael Staton
 at_semantic_version: 0.0.0.1
@@ -9,6 +12,12 @@ site_uuid: 7c047840-d766-4002-9d9e-17c903f6e8a7
 publish: true
 title: Environmental, Social, Governance
 slug: environmental-social-governance
+tags:
+  - Compliance-AI
+  - Compliance-Tools
+  - Relevant-Regulations
+  - Trending-Lingo
+  - Market-Standard-Practices
 ---
 
 

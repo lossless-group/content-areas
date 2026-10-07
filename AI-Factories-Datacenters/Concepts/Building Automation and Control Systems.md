@@ -198,13 +198,13 @@ The search results supplied for this profile do not verify current rounds, lead 
 
 # Adjacent Concepts and Categories
 
-- **[[Smart Buildings]]** — the broader operating concept that includes BACS plus occupancy, workplace, tenant, and portfolio intelligence.
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Smart Buildings]]** — the broader operating concept that includes BACS plus occupancy, workplace, tenant, and portfolio intelligence.
 - **[[content-areas/AI-Factories-Datacenters/Concepts/Building Energy Management Systems|Building Energy Management Systems]]** — the energy-optimization layer focused on consumption, benchmarking, demand response, and emissions.
 - **HVAC Controls** — the core equipment-control subcategory within BACS.
 - **[[concepts/Market-Categories/Digital Twins for Critical Infrastructure|Digital Twins for Critical Infrastructure]]** — virtual representations of buildings and equipment used for simulation, commissioning, fault detection, and optimization.
 - **[[Demand Response]]** — coordination between building loads and utility or grid signals.
 - **Indoor Air Quality** — sensing and control of ventilation, particulates, carbon dioxide, humidity, and thermal comfort.
-- **[[BACnet]] and [[Open Building Protocols]]** — interoperability standards that determine how devices, controllers, and supervisory software communicate.
+- **[[BACnet]] and [[content-areas/AI-Factories-Datacenters/Concepts/Open Building Protocols]]** — interoperability standards that determine how devices, controllers, and supervisory software communicate.
 - **[[Facilities Management Software]]** — adjacent workflow software for work orders, maintenance, assets, tenants, and operations that may consume BACS data.
 
 
