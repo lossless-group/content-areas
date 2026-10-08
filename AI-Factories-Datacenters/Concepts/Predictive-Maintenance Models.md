@@ -44,7 +44,7 @@ I --> B
 
 ## Uses in Context
 
-- In [[industrial operations]], “predictive maintenance” describes monitoring machine condition and scheduling repairs before a costly breakdown. [^i8js3j] [^dk1osk]
+- In [[content-areas/AI-Factories-Datacenters/Concepts/Industrial Operations]], “predictive maintenance” describes monitoring machine condition and scheduling repairs before a costly breakdown. [^i8js3j] [^dk1osk]
 - In manufacturing, models estimate **remaining useful life**, meaning the expected operating duration between the present condition and functional failure. [^c16s54] [^b564sy]
 - In condition monitoring, anomaly-detection systems identify deviations from normal behavior using signals such as vibration, temperature, sound, current, pressure, and velocity. [^xr50nb] [^m4t44j]
 - In maintenance software, model outputs can be connected to computerized maintenance-management systems so alerts become prioritized work orders. [^ags7gt]

@@ -28,7 +28,7 @@ for_clients:
 [[concepts/Market-Categories/Heating, Ventilation, and Air Conditioning|HVAC]]
 [[Vocabulary/Graphics Processing Units|GPUs]]
 [[Direct-to-Chip Liquid Cooling]]
-[[Regulatory Tailwinds]]
+[[concepts/Regulatory Tailwinds]]
 
 _Thermal Management is the market for hardware, controls, and software that keep high‑density built environments—especially smart buildings and data centers—within safe temperature and humidity envelopes while minimizing energy use and downtime._  
 _It clusters previously separate niches (HVAC control, building energy management, data center cooling) into a single performance‑critical stack where AI, automation, and advanced cooling methods are now a strategic differentiator._

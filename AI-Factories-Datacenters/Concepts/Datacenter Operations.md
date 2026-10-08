@@ -73,7 +73,7 @@ The boundary is disputed at the edges: some operators treat power procurement, d
 
 ## Capital concentration
 
-- Capital has concentrated in **campus-scale operators and AI-compute platforms**. Reported transactions include approximately $12 billion for [[Aligned Datacenters]] Data Centers in Q1 2025, $1.38 billion for Crusoe, $1.1 billion for Nscale, and up to $900 million for Applied Digital. [^6lp8fo] [^xldmq0]
+- Capital has concentrated in **campus-scale operators and AI-compute platforms**. Reported transactions include approximately $12 billion for [[Tooling/AI-Toolkit/AI Infrastructure/Aligned Datacenters]] Data Centers in Q1 2025, $1.38 billion for Crusoe, $1.1 billion for Nscale, and up to $900 million for Applied Digital. [^6lp8fo] [^xldmq0]
 
 - **Crusoe** is one of the clearest capital-aggregation examples: coverage reports approximately $14.6 billion across six disclosed funding events involving the company, including equity, credit facilities, and project financing. [^6lp8fo]
 
