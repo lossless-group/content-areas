@@ -34,7 +34,7 @@ for_clients:
 
 [[xAI]]
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
-[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Amazon Bedrock|Bedrock]]
 
@@ -86,7 +86,7 @@ The phrase has circulated in multiple forms, but one influential academic formul
 - [SIXE](https://sixe.eu/news/ai-factory-open-source-vllm-kubernetes) — a practitioner blueprint arguing that an AI factory is distributed compute infrastructure for running models continuously under organizational control. [^afkfz1]
 - [ajones1923/hcls-ai-factory](https://github.com/ajones1923/hcls-ai-factory) — an open-source precision-medicine AI factory built around NVIDIA DGX Spark and described as “one machine” end-to-end. [^eoae7a]
 - [AI Factory CLI](https://github.com/lee-to/ai-factory/blob/2.x/docs/getting-started.md) — a stack-agnostic developer workflow tool that uses the term to describe spec-driven project setup and agent configuration. [^bpi18o]
-- [Emerald AI](https://www.nvidia.com/en-gb/case-studies/emerald-ai/) — [[Tooling/AI-Toolkit/AI Infrastructure/Emerald AI|Emerald AI]] a startup case showing how grid-flexible software can adapt AI-factory power usage to constrained energy systems. [^6uy39p]
+- [Emerald AI](https://www.nvidia.com/en-gb/case-studies/emerald-ai/) — [[content-areas/AI-Factories-Datacenters/Organizations/Emerald AI|Emerald AI]] a startup case showing how grid-flexible software can adapt AI-factory power usage to constrained energy systems. [^6uy39p]
 
 [[content-areas/AI-Factories-Datacenters/Organizations/Giga Energy]]
 
@@ -96,7 +96,7 @@ One clear case study is the open-source, stack-neutral “AI Factory” workflow
 
 A second case is XaasIO’s “Private AI Factory,” which packages inference, RAG, [[concepts/Explainers for AI/AI-ML Pipelines|AI-ML Pipelines]], security, and observability into a managed platform built on upstream open source. [^pez339] Its published reference stack includes vLLM, Kubeflow, Slurm, [[Tooling/AI-Toolkit/AI Programming Frameworks/LangGraph|LangGraph]], [[Tooling/Software Development/Databases/Milvus|Milvus]], OpenWebUI, Feast, Spark, and Kafka, illustrating a modular interpretation of the concept in which the factory is less a single product than an integrated production environment. [^pez339] This shows that the concept has become a practical design pattern for organizations that want control, portability, and vendor neutrality rather than a single monolithic AI appliance. [^pez339]
 
-A third case is NVIDIA’s own framing of its AI-factory infrastructure, which presents the factory as a system that “convert[s] energy into tokens” and integrates five layers: energy, chips, infrastructure, models, and applications. [^zw92qx] [^mv53ft] The company’s case-study ecosystem also highlights startups such as [[Tooling/AI-Toolkit/AI Infrastructure/Emerald AI|Emerald AI]], whose software makes AI factories “grid-flexible” by treating [[Vocabulary/Compute in AI ML]] as a controllable load on power networks. [^6uy39p] This illustrates how the concept has evolved from an abstract business metaphor into an infrastructure policy and energy-efficiency framework. [^zw92qx] [^6uy39p]
+A third case is NVIDIA’s own framing of its AI-factory infrastructure, which presents the factory as a system that “convert[s] energy into tokens” and integrates five layers: energy, chips, infrastructure, models, and applications. [^zw92qx] [^mv53ft] The company’s case-study ecosystem also highlights startups such as [[content-areas/AI-Factories-Datacenters/Organizations/Emerald AI|Emerald AI]], whose software makes AI factories “grid-flexible” by treating [[Vocabulary/Compute in AI ML]] as a controllable load on power networks. [^6uy39p] This illustrates how the concept has evolved from an abstract business metaphor into an infrastructure policy and energy-efficiency framework. [^zw92qx] [^6uy39p]
 
 
 ***

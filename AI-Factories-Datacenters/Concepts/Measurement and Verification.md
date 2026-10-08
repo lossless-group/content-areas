@@ -13,7 +13,7 @@ cf_last_run: 2026-10-06T22:37:48.121Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[Work Order Automations]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Work Order Automations]]
 [[Facilities Management Software]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Building Automation and Control Systems|Building Automation and Control Systems]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Smart Buildings]]

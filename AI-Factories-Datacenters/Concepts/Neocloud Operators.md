@@ -20,7 +20,7 @@ for_clients:
   - Edviro
 ---
 
-[[Tooling/Software Development/Cloud Infrastructure/Lambda Labs|Lambda Labs]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]]
 [[Tooling/Software Development/Cloud Infrastructure/Vercel|Vercel]]
 [[Tooling/Software Development/Cloud Infrastructure/Replit|Replit]]
