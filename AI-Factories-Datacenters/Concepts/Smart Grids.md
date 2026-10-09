@@ -5,11 +5,11 @@ title: Smart Grids
 slug: smart-grids
 at_semantic_version: 0.0.0.1
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-10-09
 cf_last_run: 2026-10-04T00:25:32.039Z
 cf_last_run_model: Perplexity sonar-pro
 ---
-
+[[content-areas/AI-Factories-Datacenters/Concepts/Battery Energy Storage Systems|Battery Energy Storage Systems]]
 # Defining and Describing Smart Grids
 
 - ![Diagram of a smart grid showing generators, renewable resources, storage, smart meters, consumers, and two-way electricity and data flows](https://ars.els-cdn.com/content/image/1-s2.0-S1364032116000393-gr3.jpg)

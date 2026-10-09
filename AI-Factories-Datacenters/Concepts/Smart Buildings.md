@@ -4,7 +4,7 @@ aliases:
   - Smart‑buildings
   - smart buildings
 date_created: 2026-10-06
-date_modified: 2026-10-07
+date_modified: 2026-10-09
 tags: [AI-for-Built-Environment, Building-Automations]
 cf_last_run: "2026-10-07T02:08:19.464Z"
 cf_last_run_model: "Perplexity sonar-pro"
@@ -18,6 +18,7 @@ at_semantic_version: 0.0.0.1
 [[content-areas/AI-Factories-Datacenters/Concepts/Building Automation and Control Systems|Building Automation and Control Systems]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Building Energy Management Systems|Building Energy Management Systems]]
 [[concepts/Sustainability|Sustainability]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Remediation Agents]]
 
 
 # Defining and Describing Smart Buildings

@@ -3,8 +3,9 @@ aliases:
   - Thermal management
   - Thermal Management
   - Thermal-Management
+  - thermal-management
 date_created: 2026-10-06
-date_modified: 2026-10-07
+date_modified: 2026-10-08
 site_uuid: f5a731d0-c959-4b9e-b2eb-f029db315441
 publish: true
 title: Thermal Management
@@ -324,10 +325,10 @@ Innovators are early‑stage startups (Pre‑Seed through Series B) that propose
 
 - Smart Building Platforms — End‑to‑end software and hardware stacks that integrate access, lighting, HVAC, and analytics; thermal management is a core module.
 - Building Energy Management Systems — Dedicated systems for monitoring and controlling building energy use, including HVAC and thermal loads; a major sub‑category of this market. [^0ft83v] [^c7123f] [^kbn4js] [^6nysw7]
-- Data Center Infrastructure Management (DCIM) — Software and tools for monitoring racks, power, cooling, and capacity in data‑centers; thermal management is a central function.
+- [[concepts/Market-Categories/Data Center Infrastructure Management Systems|Data Center Infrastructure Management Systems]] (DCIM) — Software and tools for monitoring racks, power, cooling, and capacity in data‑centers; thermal management is a central function.
 - Advanced Liquid Cooling — Technologies (direct‑to‑chip, immersion, rear‑door heat exchangers) that shift data‑center thermal management from air‑based to liquid solutions. [^7r8s7t] [^3dti22] [^f66u0q]
 - Energy‑Efficiency Retrofits — Broader category of upgrades to existing buildings (lighting, insulation, controls) where thermal‑management improvements often deliver outsized gains.
-- Digital Twins for Buildings — High‑fidelity models of buildings used to simulate and optimize HVAC and other systems; a key enabler for autonomous thermal management.
+- [[concepts/Market-Categories/Digital Twins]] for Buildings — High‑fidelity models of buildings used to simulate and optimize HVAC and other systems; a key enabler for autonomous thermal management.
 - ESG and Sustainability Reporting — Regulatory and investor frameworks that make energy and thermal performance measurable and reportable, driving adoption of EMS/BEMS. [^0ft83v] [^6nysw7]
 - Agentic Workspaces — Emerging concept of autonomous systems that manage workplace environments (temperature, lighting, occupancy) using AI, closely related to intelligent thermal‑management control.
 

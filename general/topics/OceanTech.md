@@ -1,6 +1,6 @@
 ---
 date_created: 2025-08-16
-date_modified: 2025-08-16
+date_modified: 2026-10-08
 ---
 
 ***
@@ -40,7 +40,7 @@ Major trends in OceanTech as of 2025 include the rapid adoption of **autonomous 
 
   OceanTech is rapidly transforming seafood production with innovations in aquaculture (fish farming), algae and seaweed cultivation, and cell-based marine proteins. These methods aim to optimize efficiency, enhance traceability, and reduce harvest impacts on wild stocks, addressing concerns about overfishing and food security[^4t3sz8] ![Additional supporting visual content](https://os.copernicus.org/articles/21/1609/2025/os-21-1609-2025-avatar-web.png).
 
-- **Advanced Ocean Sensing and Digital Twins**
+- **Advanced Ocean Sensing and [[concepts/Market-Categories/Digital Twins]]**
 
   New sensors and platforms collect high-frequency ocean data at global scale (e.g., water temperature, acidity, pollution) using cost-effective distributed solutions. This supports research, regulatory compliance, and environmental monitoring.
   

@@ -2,7 +2,7 @@
 aliases:
   - Datacenter Operators
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-10-08
 cf_last_run: 2026-10-04T21:23:27.547Z
 cf_last_run_model: Perplexity sonar-deep-research
 for_clients:
@@ -13,6 +13,7 @@ for_clients:
 [[concepts/Market-Categories/Integrated Design-Build|Integrated Design-Build]]
 [[Vocabulary/Data Centers|Datacenters]]
 [[concepts/Explainers for AI/AI Compute Cloud Providers|AI Compute Cloud Providers]]
+[[concepts/Explainers for AI/AI-Ready Infrastructure|AI-Ready Infrastructure]]
 
 # Data Center Operators: Global Market Category Profile
 

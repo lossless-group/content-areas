@@ -42,7 +42,7 @@ Virtana is a hybrid and multi-cloud observability platform that correlates telem
 - **[[Full-Stack Telemetry]]:** Collects and correlates metrics, logs, traces, events, topology, and infrastructure signals across operational domains. [^4xqfw3] [^2b2fp5]
 - **Event Intelligence:** Correlates deployment events, configuration changes, and operational behavior to separate symptoms from underlying constraints. [^4xqfw3]
 - **[[concepts/Explainers for AI/Diagnostic AI Agents]]:** Investigate incidents and identify evidence-backed root cause using system-wide dependencies and live operational evidence. [^4xqfw3] [^ykjuy9]
-- **[[Remediation Agents]]:** Recommend or execute governed corrective actions through policies and workflows. [^4xqfw3]
+- **[[Tooling/AI-Toolkit/AI Infrastructure/Remediation Agents]]:** Recommend or execute governed corrective actions through policies and workflows. [^4xqfw3]
 - **[[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI-Factory]] observability:** Connects [[Vocabulary/Graphics Processing Units|GPU]] utilization, health, power, and cost to workloads, applications, data movement, storage, networks, Kubernetes, training, and inference. [^ykjuy9]
 - **Hybrid deployment:** Supports SaaS and self-hosted deployment, including customer-controlled environments. [^2djaf6]
 - **Agent and API access:** Provides natural-language troubleshooting, policy authoring, documentation assistance, and a metrics service for retrieving time-series data. [^2b2fp5] [^5dzbp7]
@@ -113,7 +113,7 @@ It is not a natural fit for small teams seeking a simple single-application moni
 - **[[content-areas/AI-Factories-Datacenters/Organizations/Dynatrace]]:** An enterprise observability alternative emphasizing automated dependency analysis and application intelligence.
 - **[[New Relic]]:** A developer-oriented observability alternative covering application performance, infrastructure, logs, and user experience.
 - **[[Splunk Observability]]:** An enterprise monitoring alternative combining infrastructure, application, and operational analytics.
-- **[[ScienceLogic]]:** An IT operations and AIOps alternative focused on hybrid infrastructure discovery, monitoring, and event correlation.
+- **[[Tooling/AI-Toolkit/AI Infrastructure/ScienceLogic]]:** An IT operations and AIOps alternative focused on hybrid infrastructure discovery, monitoring, and event correlation.
 
 ## Competitor Table
 

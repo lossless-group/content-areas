@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-04
-date_modified: 2026-10-04
+date_modified: 2026-10-08
 url: https://www.se.com/
 og_title: Your Energy Technology Partner
 og_description: As a global specialist in energy management, automation and digitalization in more than 100 countries, we offer integrated energy technology solutions across multiple market segments.
@@ -14,9 +14,11 @@ cf_last_run: 2026-10-04T21:31:32.564Z
 cf_last_run_model: Perplexity sonar-pro
 for_clients:
   - Edviro
+aliases:
+  - Schneider
 ---
 
-[[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems]]
+[[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems|Integrated Electrical and Mechanical Systems]]
 
 
 > [!QUOTE]
@@ -53,8 +55,8 @@ Schneider Electric sells electrical, automation, control, software, and services
 - **[[Industrial Automation]]:** Automation and control solutions incorporating robotics, AI, IoT, digital tools, machinery, and software. [^w83p2q]
 - **Secure power and data centers:** UPS systems, prefabricated power, data-center infrastructure, and AI-ready solutions. [^1pzkba]
 - **Software and services:** [[Energy Intelligence]], operational software, and lifecycle services. [^kkz8as] [^608d8x]
-- **Digital buildings:** Building-management and control technologies designed to improve efficiency and sustainability. [^kkz8as]
-- **[[content-areas/AI-Factories-Datacenters/Concepts/Liquid Cooling Systems]]:** Coolant-distribution units and direct-to-chip systems for high-density AI and [[Vocabulary/Graphics Processing Units|GPU]] environments. [^jscqq7] [^ax36ax]
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Smart Buildings|Smart Buildings]]:** Building-management and control technologies designed to improve efficiency and sustainability. [^kkz8as]
+- **[[content-areas/AI-Factories-Datacenters/Concepts/Liquid Cooling Systems|Liquid Cooling Systems]]:** Coolant-distribution units and direct-to-chip systems for high-density AI and [[Vocabulary/Graphics Processing Units|GPU]] environments. [^jscqq7] [^ax36ax]
 - **Energy and industrial intelligence:** Architectures connecting electricity, operations, data, software, and AI. [^608d8x]
 
 ## Leadership and People
@@ -85,13 +87,13 @@ As a public company, Schneider Electric’s relevant financial indicators are ma
 - **Energy Management business** — A global portfolio spanning end markets including data centers, led by Olivier Blum before he became CEO. [^w83p2q]
 - **Industrial Automation portfolio** — Automation and control solutions using robotics, AI, IoT, digital tools, machinery, and software. [^w83p2q]
 - **AI-enabled buildings research** — 2026 — Schneider Electric reported that AI-enabled buildings could reduce whole-building energy use by up to 22% against traditional controls. [^kkz8as]
-- **AI-ready data-center solutions** — 2026 — The company expanded offerings around prefabricated power, three-phase UPS technologies, liquid cooling, and EcoStruxure software and services. [^1pzkba] [^ax36ax]
+- **[[concepts/Explainers for AI/AI-Ready Infrastructure|AI-Ready Infrastructure]] [[Vocabulary/Data Centers|data-center]] solutions** — 2026 — The company expanded offerings around prefabricated power, three-phase UPS technologies, liquid cooling, and EcoStruxure software and services. [^1pzkba] [^ax36ax]
 - **Motivair liquid-cooling portfolio** — 2026 — Schneider Electric launched a coolant-distribution unit supporting hybrid air- and liquid-cooling architectures for high-density AI data centers. [^jscqq7]
 
 ## Ecosystem and Relationships
 
-- **AVEVA, ETAP, RIB, and Planon** — Specialized software companies identified by Schneider Electric as part of its energy-technology ecosystem. [^608d8x]
-- **NVIDIA and AMD** — AI ecosystem partners referenced in Schneider Electric’s data-center strategy. [^1pzkba]
+- **[[content-areas/AI-Factories-Datacenters/Organizations/AVEVA|AVEVA]], [[ETAP]], RIB, and [[Planon]]** — Specialized software companies identified by Schneider Electric as part of its energy-technology ecosystem. [^608d8x]
+- **NVIDIA and [[organizations/AMD|AMD]]** — AI ecosystem partners referenced in Schneider Electric’s data-center strategy. [^1pzkba]
 - **Customers, partners, and industry leaders** — Schneider Electric convenes these groups through Innovation Summit events focused on intelligent, efficient, and resilient energy systems. [^2azesf]
 - **Data-center and industrial sectors** — These are major customer and application ecosystems for Schneider Electric’s secure-power, automation, software, and cooling portfolios. [^2azesf] [^1pzkba] [^ax36ax]
 
@@ -100,7 +102,7 @@ As a public company, Schneider Electric’s relevant financial indicators are ma
 As of 2026-10-04,
 
 - **September 28, 2026** — Schneider Electric appointed Damien Dhellemmes Senior Vice President of Secure Power and Data Centres Europe. [^1pzkba]
-- **September 23, 2026** — Schneider Electric launched a Motivair coolant-distribution unit for hybrid air- and liquid-cooling deployments in high-density AI data centers. [^jscqq7]
+- **September 23, 2026** — Schneider Electric launched a Motivair coolant-distribution unit for hybrid air- and [[content-areas/AI-Factories-Datacenters/Concepts/Liquid Cooling Systems|liquid-cooling]] deployments in high-density AI data centers. [^jscqq7]
 - **September 21, 2026** — The company published research claiming AI-enabled buildings can cut whole-building energy use by up to 22% against traditional controls. [^kkz8as]
 - **September 18, 2026** — Schneider Electric executives presented energy, software, AI, and automation strategies at the Innovation Summit Middle East and Africa in Abu Dhabi. [^2azesf]
 - **September 18, 2026** — Schneider Electric announced Chris Collins as Senior Vice President of U.S. Digital Buildings. [^9xa6sp]
@@ -115,7 +117,7 @@ As of 2026-10-04,
 
 ## Adjacent Entries
 
-- [[content-areas/AI-Factories-Datacenters/Organizations/AVEVA]]
+- [[content-areas/AI-Factories-Datacenters/Organizations/AVEVA|AVEVA]]
 - [[ETAP]]
 - [[Planon]]
 - [[NVIDIA]]

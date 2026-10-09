@@ -55,7 +55,7 @@ G --> E
 - **Renewable-energy integration:** Grid synchronization describes how photovoltaic and wind converters estimate grid phase and frequency before delivering power. [^bvq4ka] [^qnbz4i]
 - **Inverter control:** Engineers use the term for PLL-based techniques such as synchronous-reference-frame PLLs, SOGI-PLLs, and enhanced PLLs. [^bvq4ka] [^xvus3y]
 - **Weak-grid analysis:** Synchronization is invoked when assessing whether a grid-following inverter remains stable as the network’s short-circuit strength declines. [^oc8tx7] [^hsil6y]
-- **[[Microgrid Operations]]:** The term describes matching voltage magnitude, frequency, and phase angle before a generator or inverter closes its breaker to an energized bus. [^m1f5mt] [^y454ts]
+- **[[concepts/Microgrid Operations]]:** The term describes matching voltage magnitude, frequency, and phase angle before a generator or inverter closes its breaker to an energized bus. [^m1f5mt] [^y454ts]
 - **Black start and islanding:** Grid synchronization distinguishes equipment that follows an existing reference from grid-forming equipment that can establish one on a dead bus. [^m5hpgi] [^vejdj1] [^jay9sx]
 - **Power-system stability:** Researchers use synchronization to describe the coordinated state in which network frequencies remain equal and supply and demand remain balanced. [^3oxsze]
 

@@ -47,7 +47,7 @@ Priority features:
 - **Interconnection:** Cross-connects, ServiceFabric, and bulk-fiber connectivity for linking customers, clouds, and networks. [^v5k8h1]
 - **[[Hyperscale Cloud Providers|Hyperscalers]] capacity:** Large data-center deployments for cloud and AI customers. [^v5k8h1]
 - **PlatformDIGITAL:** A global platform for secure data collaboration and distributed infrastructure. [^9x13nk] [^E1]
-- **[[AI-Ready Infrastructure]]:** Facilities and architecture designed to support emerging AI workloads. [^9x13nk]
+- **[[concepts/Explainers for AI/AI-Ready Infrastructure]]:** Facilities and architecture designed to support emerging AI workloads. [^9x13nk]
 - **Programmable control:** [[ServiceFabric]] [[concepts/Explainers for AI/Model Context Protocol|MCP]] provides [[Vocabulary/AI Native Applications|AI-Native]] programmable control across more than 800 data centers. [^gxu2y2]
 - **Global footprint:** A worldwide data-center portfolio serving multiple major digital-infrastructure markets. [^E1]
 

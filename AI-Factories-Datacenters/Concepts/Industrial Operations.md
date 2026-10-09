@@ -7,7 +7,7 @@ title: Industrial Operations
 slug: industrial-operations
 at_semantic_version: 0.0.0.1
 date_created: 2026-10-08
-date_modified: 2026-10-08
+date_modified: 2026-10-09
 cf_last_run: 2026-10-08T19:12:23.861Z
 cf_last_run_model: Perplexity sonar-pro
 tags:
@@ -18,6 +18,7 @@ tags:
 [[concepts/Market-Categories/Manufacturing Automation|Advanced Manufacturing]]
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
 [[Industrial Automation]]
+[[Tooling/AI-Toolkit/AI Infrastructure/Remediation Agents]]
 
 # Defining and Describing Industrial Operations
 
