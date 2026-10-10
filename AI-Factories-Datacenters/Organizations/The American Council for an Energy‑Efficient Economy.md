@@ -117,7 +117,7 @@ As of 2026-10-04,
 ## Adjacent Entries
 
 - [[Mass Save]]
-- [[U.S. Department of Energy]]
+- [[organizations/U.S. Department of Energy]]
 - [[Energy Efficiency]]
 - [[Behavioral Science]]
 - [[Fuel Economy Standards]]

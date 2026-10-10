@@ -28,7 +28,7 @@ cf_last_run_retrieval: 2026-10-06T19:59:04.348Z
 ---
 
 [[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|Hyperscale Datacenters]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]
 
@@ -115,7 +115,7 @@ Reported annual revenue: **approximately $197.3 million**. [^E1]
 
 ## Who it's for, who it's not for
 
-STACK is aimed at [[Hyperscale Cloud Providers|Hyperscalers]], large technology companies, and enterprises needing substantial, scalable data-center capacity through [[concepts/Build-to-Suit Development|Build-to-Suit]], campus, [[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]], or powered-shell arrangements. [^E1]
+STACK is aimed at [[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]], large technology companies, and enterprises needing substantial, scalable data-center capacity through [[concepts/Build-to-Suit Development|Build-to-Suit]], campus, [[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]], or powered-shell arrangements. [^E1]
 
 It is not positioned as a self-service cloud platform, a small-business hosting provider, or a software product with publicly listed subscription tiers; its offering is physical infrastructure and related facility services. [^E1]
 

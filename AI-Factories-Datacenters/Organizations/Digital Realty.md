@@ -29,7 +29,7 @@ cf_last_run_retrieval: 2026-10-07T01:02:05.231Z
 [[Vocabulary/Data Centers|Datacenters]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation Services]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 
 ## Retrieved sources
 
@@ -45,7 +45,7 @@ Priority features:
 
 - **[[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]:** Data-center space and infrastructure for enterprise, cloud, and service-provider workloads. [^E1]
 - **Interconnection:** Cross-connects, ServiceFabric, and bulk-fiber connectivity for linking customers, clouds, and networks. [^v5k8h1]
-- **[[Hyperscale Cloud Providers|Hyperscalers]] capacity:** Large data-center deployments for cloud and AI customers. [^v5k8h1]
+- **[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]] capacity:** Large data-center deployments for cloud and AI customers. [^v5k8h1]
 - **PlatformDIGITAL:** A global platform for secure data collaboration and distributed infrastructure. [^9x13nk] [^E1]
 - **[[concepts/Explainers for AI/AI-Ready Infrastructure]]:** Facilities and architecture designed to support emerging AI workloads. [^9x13nk]
 - **Programmable control:** [[ServiceFabric]] [[concepts/Explainers for AI/Model Context Protocol|MCP]] provides [[Vocabulary/AI Native Applications|AI-Native]] programmable control across more than 800 data centers. [^gxu2y2]

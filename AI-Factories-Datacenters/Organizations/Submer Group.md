@@ -22,7 +22,7 @@ cf_last_run_retrieval: 2026-10-04T22:40:14.504Z
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Builders|Datacenter Builders]]
 [[Vocabulary/Data Centers|Datacenters]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 
 # Submer Group
 

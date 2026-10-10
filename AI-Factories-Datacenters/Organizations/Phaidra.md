@@ -26,7 +26,7 @@ cf_last_run_retrieval: 2026-10-04T23:19:05.734Z
 ---
 
 [[concepts/Market-Categories/Data Center Infrastructure Management Systems|Data Center Infrastructure Management Systems]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[concepts/Market-Categories/Integrated Design-Build|Integrated Design-Build]]
 
 

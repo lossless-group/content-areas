@@ -247,7 +247,7 @@ The boundary is disputed at the edges: some market reports include system-integr
 
 - **Which revenue layer will capture the durable margin: cells, integrated systems, or optimization software?** [[organizations/Tesla|Tesla]], [[CATL]], Fluence, and Powin are positioned across different layers, while software-heavy providers may determine whether BESS becomes an equipment market or an infrastructure-services market. [^2431wb] [^2lxxpc]
 
-- **Can alternative chemistries displace lithium-ion in commercially meaningful segments?** Form Energy, ESS, Eos, [[Peak Energy]], and e-Zinc are betting that duration, safety, materials availability, or lifecycle economics will outweigh lithium-ion’s manufacturing advantage. [^2lxxpc] [^979p5v]
+- **Can alternative chemistries displace lithium-ion in commercially meaningful segments?** Form Energy, ESS, Eos, [[content-areas/AI-Factories-Datacenters/Organizations/Peak Energy]], and e-Zinc are betting that duration, safety, materials availability, or lifecycle economics will outweigh lithium-ion’s manufacturing advantage. [^2lxxpc] [^979p5v]
 
 - **Will utility-scale systems or behind-the-meter systems define the category’s center of gravity?** Above-10-MWh systems are highlighted as a growth segment, but U.S. and commercial applications may grow through demand charges, resilience, and constrained interconnection rather than wholesale-market arbitrage. [^yzemy3] [^979p5v]
 

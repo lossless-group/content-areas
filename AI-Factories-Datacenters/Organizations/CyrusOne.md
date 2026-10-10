@@ -15,7 +15,7 @@ cf_retrieved_source_count: 1
 cf_last_run_retrieval: 2026-10-04T20:35:54.994Z
 ---
 
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Datacenter Builders]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Data Center Operators]]
 

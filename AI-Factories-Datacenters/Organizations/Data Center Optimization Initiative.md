@@ -10,7 +10,7 @@ tags:
 https://www.epa.gov/data/data-center-optimization-initiative
 
 [[concepts/Explainers for AI/AI Doomerism|AI Doomerism]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[concepts/Explainers for AI/AI Cloud Infrastructure|AI Cloud Infrastructure]]
 [[Vocabulary/Cloud Infrastructure|Cloud Infrastructure]]
 

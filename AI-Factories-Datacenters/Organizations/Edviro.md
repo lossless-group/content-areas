@@ -28,7 +28,7 @@ Reporting.
 
 What kind of work do you need to do auditing?  
 
-[[Energy Star]] compliance.  Audit prep.  [[LEEDS]].  
+[[Energy Star]] compliance.  Audit prep.  [[Leadership in Energy and Environmental Design]].  
 Capex Planning
 Decision Simulation
 

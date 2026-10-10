@@ -16,7 +16,7 @@ cf_last_run: 2026-10-04T20:26:19.839Z
 cf_last_run_model: Perplexity sonar-pro
 ---
 
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|Hyperscale Datacenters]]
 [[Vocabulary/Data Centers|Data Centers]]
 

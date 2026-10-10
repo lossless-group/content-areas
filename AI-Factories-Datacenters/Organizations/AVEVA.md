@@ -26,7 +26,7 @@ cf_last_run_retrieval: 2026-10-06T02:31:06.297Z
 
 ![Screenshot 2026-10-04 at 6.23.51 PM.png](https://i.imgur.com/KyC9bk1.png)
 
-[[Industrial Automation]]
+[[concepts/Market-Categories/Industrial Automations]]
 
 ## Value Proposition & Features
 

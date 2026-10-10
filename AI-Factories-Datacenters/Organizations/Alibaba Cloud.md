@@ -18,4 +18,4 @@ og_site_name: AlibabaCloud
 og_type: website
 og_last_fetch: 2026-10-04T20:31:45.286Z
 ---
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]

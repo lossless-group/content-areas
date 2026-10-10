@@ -17,7 +17,7 @@ tags:
 
 [[concepts/Market-Categories/Manufacturing Automation|Advanced Manufacturing]]
 [[concepts/AI-Powered Supply Chains|Supply Chain AI]]
-[[Industrial Automation]]
+[[concepts/Market-Categories/Industrial Automations]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Remediation Agents]]
 
 # Defining and Describing Industrial Operations

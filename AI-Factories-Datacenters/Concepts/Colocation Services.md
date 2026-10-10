@@ -24,7 +24,7 @@ cf_last_run_model: Perplexity sonar-deep-research
 [[concepts/Explainers for AI/AI Compute Cloud Providers|AI Compute Cloud Providers]]
 [[Vocabulary/Cloud Storage|Cloud Storage]]
 [[Vocabulary/Data Centers|Data Centers]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 
 # Colocation Services
 

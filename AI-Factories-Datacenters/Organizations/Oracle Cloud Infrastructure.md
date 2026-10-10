@@ -21,7 +21,7 @@ aliases:
 ---
 
 [[concepts/Explainers for AI/AI Cloud Infrastructure|AI Cloud Infrastructure]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[concepts/Explainers for AI/AI Compute Cloud Providers|AI Compute Cloud Providers]]
 
 ## Retrieved sources

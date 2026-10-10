@@ -23,7 +23,7 @@ for_clients:
 ---
 
 [[concepts/Explainers for AI/Edge AI|Edge AI]]
-[[Hyperscale Cloud Providers|Hyperscalers]]
+[[concepts/Market-Categories/Hyperscale Cloud Providers|Hyperscalers]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Colocation Services|Colocation]]
 
 ## Retrieved sources
