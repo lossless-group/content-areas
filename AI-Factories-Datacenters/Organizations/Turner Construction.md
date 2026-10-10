@@ -131,7 +131,7 @@ It is not a practical fit for small residential remodels, individual homeowners 
 
 - **DPR Construction:** Large U.S. construction manager and general contractor competing for technically complex commercial, healthcare, life-sciences, and data-center work.
 - **Holder Construction:** Major U.S. builder with strong [[Vocabulary/Data Centers|data-center]] and mission-critical infrastructure capabilities.
-- **[[Tooling/AI-Toolkit/AI Infrastructure/HITT Contracting|HITT Contracting]]:** National commercial construction and construction-management firm competing in institutional and mission-critical projects.
+- **[[content-areas/AI-Factories-Datacenters/Organizations/HITT Contracting|HITT Contracting]]:** National commercial construction and construction-management firm competing in institutional and mission-critical projects.
 - **Clayco:** Design-build and construction firm active in industrial, manufacturing, data-center, and commercial facilities.
 - **Whiting-Turner Contracting:** Large U.S. general contractor competing across commercial, institutional, and industrial construction.
 
