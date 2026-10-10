@@ -142,7 +142,7 @@ Incumbents here are large public or PE‑owned companies with global footprints 
 - Siemens — Provides building automation, HVAC controls, and energy‑management platforms used in large commercial and institutional buildings, with strong presence in smart‑building thermal management.
 - Johnson Controls — Major player in building HVAC, chillers, and building‑management systems (including Metasys), entrenched across commercial and industrial portfolios.
 - Honeywell — Offers building‑management systems, comfort controls, industrial automation, and energy‑management solutions, often integrated into large‑scale thermal‑management deployments.
-- [[Carrier]] — Global HVAC manufacturer with strong chiller, air‑handling, and building‑controls businesses, a default choice for many large facilities.
+- [[content-areas/AI-Factories-Datacenters/Organizations/Carrier]] — Global HVAC manufacturer with strong chiller, air‑handling, and building‑controls businesses, a default choice for many large facilities.
 - [[content-areas/AI-Factories-Datacenters/Organizations/Trane Technologies|Trane Technologies]] — Focused on high‑efficiency HVAC systems and controls, widely deployed in commercial buildings and campuses.
 - [[Tooling/AI-Toolkit/AI Infrastructure/Vertiv|Vertiv]] — Data‑center infrastructure specialist supplying cooling equipment (including high‑density and edge systems) alongside power and racks.
 - Huawei (Enterprise & Cloud Infrastructure) — Provides data‑center infrastructure, including cooling solutions, across telecom and cloud deployments, especially in Asia.

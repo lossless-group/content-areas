@@ -64,7 +64,7 @@ The boundary is disputed at three edges: some market reports include access cont
 
 - The clearest category-creation event is the consolidation of controls, energy management, security, access, fire protection, and services into one market definition in current analyst reports, signaling that BACS is being treated as an integrated infrastructure category rather than only a building-management-system software niche. [^48t8n6] [^rig0jy]
 
-- Automated Logic, a [[Carrier]] business, acquired Logical Building Automation in May 2025 to expand its international presence and strengthen its building-automation and controls position. [^zu1ttb]
+- Automated Logic, a [[content-areas/AI-Factories-Datacenters/Organizations/Carrier]] business, acquired Logical Building Automation in May 2025 to expand its international presence and strengthen its building-automation and controls position. [^zu1ttb]
 
 - [[Johnson Controls]] acquired Dutch building-automation provider Webeasy in January 2025, an example of incumbent consolidation around European automation capabilities. [^zu1ttb]
 

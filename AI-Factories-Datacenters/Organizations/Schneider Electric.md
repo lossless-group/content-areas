@@ -92,7 +92,7 @@ As a public company, Schneider Electric’s relevant financial indicators are ma
 
 ## Ecosystem and Relationships
 
-- **[[content-areas/AI-Factories-Datacenters/Organizations/AVEVA|AVEVA]], [[ETAP]], RIB, and [[Planon]]** — Specialized software companies identified by Schneider Electric as part of its energy-technology ecosystem. [^608d8x]
+- **[[content-areas/AI-Factories-Datacenters/Organizations/AVEVA|AVEVA]], [[ETAP]], RIB, and [[Tooling/AI-Toolkit/AI Infrastructure/Planon Software]]** — Specialized software companies identified by Schneider Electric as part of its energy-technology ecosystem. [^608d8x]
 - **NVIDIA and [[organizations/AMD|AMD]]** — AI ecosystem partners referenced in Schneider Electric’s data-center strategy. [^1pzkba]
 - **Customers, partners, and industry leaders** — Schneider Electric convenes these groups through Innovation Summit events focused on intelligent, efficient, and resilient energy systems. [^2azesf]
 - **Data-center and industrial sectors** — These are major customer and application ecosystems for Schneider Electric’s secure-power, automation, software, and cooling portfolios. [^2azesf] [^1pzkba] [^ax36ax]
@@ -119,7 +119,7 @@ As of 2026-10-04,
 
 - [[content-areas/AI-Factories-Datacenters/Organizations/AVEVA|AVEVA]]
 - [[ETAP]]
-- [[Planon]]
+- [[Tooling/AI-Toolkit/AI Infrastructure/Planon Software]]
 - [[NVIDIA]]
 - [[AMD]]
 - [[Energy Management]]
