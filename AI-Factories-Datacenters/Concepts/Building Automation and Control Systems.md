@@ -204,7 +204,7 @@ The search results supplied for this profile do not verify current rounds, lead 
 - **[[concepts/Market-Categories/Digital Twins for Critical Infrastructure|Digital Twins for Critical Infrastructure]]** — virtual representations of buildings and equipment used for simulation, commissioning, fault detection, and optimization.
 - **[[Demand Response]]** — coordination between building loads and utility or grid signals.
 - **Indoor Air Quality** — sensing and control of ventilation, particulates, carbon dioxide, humidity, and thermal comfort.
-- **[[BACnet]] and [[content-areas/AI-Factories-Datacenters/Concepts/Open Building Protocols]]** — interoperability standards that determine how devices, controllers, and supervisory software communicate.
+- **[[organizations/BACnet]] and [[content-areas/AI-Factories-Datacenters/Concepts/Open Building Protocols]]** — interoperability standards that determine how devices, controllers, and supervisory software communicate.
 - **[[Facilities Management Software]]** — adjacent workflow software for work orders, maintenance, assets, tenants, and operations that may consume BACS data.
 
 

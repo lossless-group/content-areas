@@ -1,7 +1,7 @@
 ---
 url: https://www.gigaenergy.com/
 date_created: 2026-08-04
-date_modified: 2026-10-04
+date_modified: 2026-10-10
 og_title: Giga Energy
 og_description: Giga Energy manufactures and develops energy infrastructure for AI projects. Powered land, manufacturing, and development from one trustworthy partner.
 og_image: https://img.gigaenergy.com/i/67e218fe05ad9e1f3b2cf2ab/6a31b954b29697f82b98b1f8_22d4809d624fc63a97a5eea03526583a_GigaPod.jpg?w=1280
@@ -25,6 +25,8 @@ cf_last_run_retrieval: 2026-10-04T00:40:07.879Z
 ---
 
 [[ATP Fund]]
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators|Energy Innovators]]
+[[concepts/Explainers for AI/On-Site Power Generation|On-Site Power Generation]]
 
 # Giga Energy
 

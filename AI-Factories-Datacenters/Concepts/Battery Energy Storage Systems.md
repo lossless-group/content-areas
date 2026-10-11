@@ -245,7 +245,7 @@ The boundary is disputed at the edges: some market reports include system-integr
 
 - **Will the category remain “battery energy storage,” or expand into a broader energy-storage market?** Grand View Research separately tracks grid-scale battery storage, while market taxonomies include flow, sodium-ion, and other technologies; long-duration operators such as Form Energy, ESS, and Quidnet are most likely to resolve the boundary. [^979p5v] [^qrqn8j]
 
-- **Which revenue layer will capture the durable margin: cells, integrated systems, or optimization software?** [[organizations/Tesla|Tesla]], [[CATL]], Fluence, and Powin are positioned across different layers, while software-heavy providers may determine whether BESS becomes an equipment market or an infrastructure-services market. [^2431wb] [^2lxxpc]
+- **Which revenue layer will capture the durable margin: cells, integrated systems, or optimization software?** [[organizations/Tesla|Tesla]], [[organizations/CATL]], Fluence, and Powin are positioned across different layers, while software-heavy providers may determine whether BESS becomes an equipment market or an infrastructure-services market. [^2431wb] [^2lxxpc]
 
 - **Can alternative chemistries displace lithium-ion in commercially meaningful segments?** Form Energy, ESS, Eos, [[content-areas/AI-Factories-Datacenters/Organizations/Peak Energy]], and e-Zinc are betting that duration, safety, materials availability, or lifecycle economics will outweigh lithium-ion’s manufacturing advantage. [^2lxxpc] [^979p5v]
 

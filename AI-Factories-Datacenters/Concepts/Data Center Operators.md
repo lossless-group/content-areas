@@ -163,7 +163,7 @@ A concise comparative view of leading challengers can clarify their positioning:
 
 #### [Vantage Data Centers](https://vantage-dc.com)
 
-**Stage**: Scale‑up hyperscale campus operator, heavily funded by infrastructure and private equity investors. [^rj1m09] Vantage was originally launched by [[Silver Lake]] in 2010 and is now backed by [[DigitalBridge Group]] and other investors through substantial equity and debt financing. [^rj1m09]
+**Stage**: Scale‑up hyperscale campus operator, heavily funded by infrastructure and private equity investors. [^rj1m09] Vantage was originally launched by [[Silver Lake]] in 2010 and is now backed by [[content-areas/AI-Factories-Datacenters/Organizations/DigitalBridge Group]] and other investors through substantial equity and debt financing. [^rj1m09]
 
 **Funding**: Vantage reported securing more than USD 13 billion in debt and equity investments in 2024, supporting additions of new markets and expansions in existing markets. [^rj1m09] This includes a USD 9.2 billion equity investment led by investment vehicles managed by DigitalBridge Group and Silver Lake, which increased from an initial USD 6.4 billion announcement, a EUR 1.4 billion investment from GIC and MEAG for Vantage’s EMEA platform, a GBP 600 million asset‑backed securitization representing the region’s first asset‑backed securitization of a data center, and a USD 3 billion green loan led by Wells Fargo to fund at least eight new and existing data center sites in North America. [^rj1m09] Its APAC platform received a USD 64 million loan from CTBC Bank and Cathay United Bank, completing the first greenfield hyperscale data center financing transaction in Taiwan, and Vantage issued its inaugural bonds in the Asia-Pacific region. [^rj1m09]
 

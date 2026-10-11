@@ -1,6 +1,6 @@
 ---
 date_created: 2026-10-08
-date_modified: 2026-10-08
+date_modified: 2026-10-10
 cf_last_run: 2026-10-08T17:36:04.003Z
 cf_last_run_model: Perplexity sonar-pro
 site_uuid: 7e3ed5ee-467e-4b6d-bca5-27426da00003
@@ -11,6 +11,7 @@ at_semantic_version: 0.0.0.1
 tags:
   - Energy-Innovators
 ---
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators|Energy Innovators]]
 
 
 Grid synchronization is the process of matching an incoming power source (such as a generator, solar inverter, or wind turbine) to an electrical grid's alternating current (AC) parameters before connecting them. [^lqlqn4] [^5nroc3] [^zs6r28] [^fhh9c4] 

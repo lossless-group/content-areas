@@ -21,4 +21,4 @@ at_semantic_version: 0.0.0.1
 [[content-areas/AI-Factories-Datacenters/Concepts/AI Factories|AI Factories]]
 [[concepts/Explainers for AI/On-Site Power Generation|On-Site Power Generation]]
 
-[[Energy Innovators]]
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators]]

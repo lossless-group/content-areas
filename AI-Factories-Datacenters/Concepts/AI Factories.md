@@ -1,6 +1,6 @@
 ---
 date_created: 2026-01-11
-date_modified: 2026-10-04
+date_modified: 2026-10-10
 aliases:
   - AI-Factory
   - AI-Factories
@@ -37,6 +37,7 @@ for_clients:
 [[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Amazon Bedrock|Bedrock]]
+[[content-areas/AI-Factories-Datacenters/Topics/Energy Innovators|Energy Innovators]]
 
 Design > Build > Operate
 
