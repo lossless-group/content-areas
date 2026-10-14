@@ -2,7 +2,7 @@
 title: Positron
 url: https://positron.ai
 date_created: 2026-10-03
-date_modified: 2026-10-03
+date_modified: 2026-10-12
 publish: false
 tags: [AI-Factories-Datacenters, Yotta-2026, Compute-Chips-Inference-Clouds]
 ---
@@ -17,4 +17,5 @@ American-made AI inference chip/hardware startup (Reno, NV). CEO Mitesh Agrawal 
 - Contacts: Mitesh Agrawal (CEO)
 - Event Map segment: Compute, Chips & Inference Clouds
 - Event Map: [[Sources/Events/Yotta 2026 Event Map|Yotta 2026 Event Map]]
+- [[organizations/1517 Fund|1517 Fund]]
 %%

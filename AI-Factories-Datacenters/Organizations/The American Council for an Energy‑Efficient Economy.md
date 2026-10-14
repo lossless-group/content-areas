@@ -119,7 +119,7 @@ As of 2026-10-04,
 - [[Mass Save]]
 - [[organizations/U.S. Department of Energy]]
 - [[Energy Efficiency]]
-- [[Behavioral Science]]
+- [[Vocabulary/Behavioral Sciences]]
 - [[Fuel Economy Standards]]
 
 

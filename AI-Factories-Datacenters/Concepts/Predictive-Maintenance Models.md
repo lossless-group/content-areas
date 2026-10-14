@@ -14,7 +14,7 @@ slug: predictive-maintenance-models
 at_semantic_version: 0.0.1.1
 ---
 
-[[Physical AI]]
+[[concepts/Market-Categories/Physical AI]]
 [[concepts/Market-Categories/Building Management Systems|Building Management Systems]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Building Energy Management Systems|Building Energy Management Systems]]
 [[content-areas/AI-Factories-Datacenters/Concepts/Integrated Electrical and Mechanical Systems|Integrated Electrical and Mechanical Systems]]
