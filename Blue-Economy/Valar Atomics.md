@@ -27,7 +27,7 @@ cf_last_run_retrieval: 2026-10-13T22:32:35.640Z
 
 %% Heard from [[Yitzachak Abehsera]] %% 
 
-[[vertical-toolkits/Venture-Capital-Firms/Initialized Capital|Initialized Capital]]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Initialized Capital|Initialized Capital]]
 
 Valar Atomics is a U.S. nuclear-energy company developing modular reactors for industrial power, data centers, hydrogen, and energy-derived products. Its public materials describe a strategy of integrating reactor and fuel production, then scaling manufacturing from individual demonstrations toward fleets. [^f94b2i] [^2y9z3a]
 
@@ -53,9 +53,9 @@ As of October 13, 2026,
 
 ## Recent Developments
 
-- Valar’s reported $1 billion Series B was led by [[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]] and accompanied by a reported $200 million credit facility. [^2y9z3a]
+- Valar’s reported $1 billion Series B was led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]] and accompanied by a reported $200 million credit facility. [^2y9z3a]
 - The financing was described as supporting reactor mass production, integrated fuel production, and deployment to industrial or AI-computing sites. [^2y9z3a] [^ovp89c]
-- Valar reportedly entered litigation with early investor [[vertical-toolkits/Venture-Capital-Firms/Day One Ventures]] concerning pro-rata rights and allocation in the Series B. [^avkph9] [^pprbi4]
+- Valar reportedly entered litigation with early investor [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Day One Ventures]] concerning pro-rata rights and allocation in the Series B. [^avkph9] [^pprbi4]
 
 # History and Origin Story
 
@@ -74,15 +74,15 @@ The available third-party sources conflict on aggregate funding: one reports $1.
 
 Apandion. [^2y9z3a]  
 Atreides Management. [^2y9z3a]  
-[[Conviction Capital]]. [^2y9z3a]  
-[[vertical-toolkits/Venture-Capital-Firms/Day One Ventures]]. [^f94b2i]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Conviction Partners]]. [^2y9z3a]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Day One Ventures]]. [^f94b2i]  
 Dream Ventures. [^2y9z3a]  
 HOF Capital. [^2y9z3a]  
 Point72 Ventures. [^2y9z3a]  
-[[Riot Ventures]]. [^f94b2i]  
-[[vertical-toolkits/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]. [^f94b2i]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Riot Ventures]]. [^f94b2i]  
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Sequoia Capital|Sequoia Capital]]. [^f94b2i]  
 Snowpoint Ventures. [^f94b2i]  
-[[Valor Equity Partners]]. [^2y9z3a]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/Valor Equity Partners]]. [^2y9z3a]
 
 ## Notable Team Members
 

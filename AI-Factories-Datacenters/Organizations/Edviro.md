@@ -1,6 +1,6 @@
 ---
 date_created: 2026-07-16
-date_modified: 2026-10-04
+date_modified: 2026-10-27
 url: https://edviroenergy.com/
 og_title: AI for building operations
 og_description: Edviro puts AI across your fragmented building data — bills, meters, BMS, and work orders — then catches waste, fixes it, proves the savings, and builds a digital twin for capital planning. Backed by Y Combinator.
@@ -28,7 +28,7 @@ Reporting.
 
 What kind of work do you need to do auditing?  
 
-[[content-areas/AI-Factories-Datacenters/Organizations/Energy Star]] compliance.  Audit prep.  [[Leadership in Energy and Environmental Design]].  
+[[content-areas/AI-Factories-Datacenters/Organizations/Energy Star|Energy Star]] compliance.  Audit prep.  [[Leadership in Energy and Environmental Design]].  
 Capex Planning
 Decision Simulation
 

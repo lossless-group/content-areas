@@ -99,7 +99,7 @@ Corintis is a Lausanne-based EPFL spin-off developing semiconductor cooling thro
 | Corporate round       |  December 1, 2025 |                                           USD 25.0M | Not disclosed [^E1] |
 | **Total**             |                   | **At least USD 49.21M plus undisclosed assistance** |                     |
 
-[[BlueYard Capital]] is associated with Corintis’s Series A coverage, but the available result does not establish that it was the lead investor. [^0rmgw1]
+[[vertical-toolkits/Alternatives/Venture-Capital-Firms/BlueYard Capital]] is associated with Corintis’s Series A coverage, but the available result does not establish that it was the lead investor. [^0rmgw1]
 
 Investors and funding-related organizations identified in the available results:
 

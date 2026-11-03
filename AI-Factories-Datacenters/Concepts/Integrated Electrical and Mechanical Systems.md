@@ -177,7 +177,7 @@ The boundary is disputed at the edges: some operators include on-site generation
 #### Claros
 **Stage**: Seed.
 
-**Funding**: [[Claros]] reportedly raised a $30 million seed round led by [[General Catalyst]] and [[Red Cell Partners]].[11]
+**Funding**: [[Claros]] reportedly raised a $30 million seed round led by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/General Catalyst]] and [[Red Cell Partners]].[11]
 
 **Footprint**: Claros is described as developing AI data-center power infrastructure, but the available search results do not provide revenue, employee count, customer count, or deployed capacity.[11]
 
@@ -199,7 +199,7 @@ The boundary is disputed at the edges: some operators include on-site generation
 #### ZutaCore
 **Stage**: Series C / growth-stage private company; included here because its product thesis is still an early category-redefinition bet even though its funding stage is beyond the strict Innovator definition.
 
-**Funding**: [[ZutaCore]] reportedly raised $100 million in June 2026 in a round involving Mitsubishi Electric, [[Carrier Ventures]], Samsung Ventures, and additional investors.[7]
+**Funding**: [[ZutaCore]] reportedly raised $100 million in June 2026 in a round involving Mitsubishi Electric, [[vertical-toolkits/Alternatives/Venture-Capital-Firms/Carrier Ventures]], Samsung Ventures, and additional investors.[7]
 
 **Footprint**: ZutaCore provides waterless two-phase direct-to-chip cooling for AI/HPC data centers; the available search results do not provide customer count, revenue, or employee count.[7]
 
