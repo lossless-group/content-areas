@@ -66,7 +66,7 @@ As of October 6, 2026,
 ## Recent Developments
 
 - STACK’s Project Jupiter campus in southern New Mexico was affected by flooding in late September 2026. [^qoog3g]
-- A consortium backed by [[organizations/BlackRock]] and [[IFM Investors]] reportedly entered exclusive talks for STACK’s Asia-Pacific portfolio; the reported valuation range was $20 billion–$25 billion, and the discussions were not described as finalized. [^njw749]
+- A consortium backed by [[vertical-toolkits/Alternatives/Venture-Capital-Firms/BlackRock]] and [[IFM Investors]] reportedly entered exclusive talks for STACK’s Asia-Pacific portfolio; the reported valuation range was $20 billion–$25 billion, and the discussions were not described as finalized. [^njw749]
 
 # History and Origin Story
 

@@ -17,5 +17,5 @@ American-made AI inference chip/hardware startup (Reno, NV). CEO Mitesh Agrawal 
 - Contacts: Mitesh Agrawal (CEO)
 - Event Map segment: Compute, Chips & Inference Clouds
 - Event Map: [[Sources/Events/Yotta 2026 Event Map|Yotta 2026 Event Map]]
-- [[organizations/1517 Fund|1517 Fund]]
+- [[vertical-toolkits/Alternatives/Venture-Capital-Firms/1517 Fund|1517 Fund]]
 %%
