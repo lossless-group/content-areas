@@ -54,7 +54,7 @@ USGBC develops and promotes LEED-related systems, convenes the building sector, 
 
 - **LEED:** Certification framework and associated project activity for sustainable buildings and communities. [^ovwe6q]
 - **Education and professional engagement:** Public programming and participation opportunities connected with green-building practice. [^p03x9l]
-- **[[Greenbuild International Conference & Expo]]:** Industry conference programming, including the 2026 event in New York City. [^4ll8a4]
+- **[[Sources/Events/Greenbuild International Conference & Expo]]:** Industry conference programming, including the 2026 event in New York City. [^4ll8a4]
 - **[[Sources/Events/Green Schools Conference]]:** Conference programming for sustainable schools; the 2027 event was announced for Austin. [^6zyjn9]
 - **Women in Green:** Annual event and scholarship activity supporting women in the green-building field. [^p03x9l]
 - **Policy advocacy:** Coalition and legislative engagement on data centers, grid reliability, clean energy, and building-certification policy. [^2mzee5]
@@ -116,7 +116,7 @@ As of 2026-10-09,
 
 - [[Leadership in Energy and Environmental Design]]
 - [[organizations/Green Building Certification Institute]]
-- [[Greenbuild International Conference & Expo]]
+- [[Sources/Events/Greenbuild International Conference & Expo]]
 - [[USGBC California]]
 - [[Sierra Club]]
 - [[Natural Resources Defense Council]]

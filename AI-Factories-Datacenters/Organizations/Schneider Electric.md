@@ -51,7 +51,7 @@ Schneider Electric positions itself as an “energy technology partner” connec
 
 Schneider Electric sells electrical, automation, control, software, and services to organizations managing energy-intensive or operationally complex environments. Its operating model combines hardware, engineering, digital platforms, specialized software, services, and ecosystem partnerships to connect energy supply and demand with operations. [^608d8x]
 
-- **[[Energy Management]]:** Electrical distribution, power-management, and energy-efficiency technologies. [^2azesf]
+- **[[content-areas/Blue-Economy/Energy Management]]:** Electrical distribution, power-management, and energy-efficiency technologies. [^2azesf]
 - **[[concepts/Market-Categories/Industrial Automations]]:** Automation and control solutions incorporating robotics, AI, IoT, digital tools, machinery, and software. [^w83p2q]
 - **Secure power and data centers:** UPS systems, prefabricated power, data-center infrastructure, and AI-ready solutions. [^1pzkba]
 - **Software and services:** [[Energy Intelligence]], operational software, and lifecycle services. [^kkz8as] [^608d8x]
@@ -122,7 +122,7 @@ As of 2026-10-04,
 - [[Tooling/AI-Toolkit/AI Infrastructure/Planon Software]]
 - [[NVIDIA]]
 - [[AMD]]
-- [[Energy Management]]
+- [[content-areas/Blue-Economy/Energy Management]]
 
 
 ***
