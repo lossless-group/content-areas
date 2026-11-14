@@ -82,7 +82,7 @@ In legal usage, a limited partner is a party to a limited partnership whose liab
 - **Adjacent terms**
   - [[General Partners]]
   - [[Vocabulary/Venture Capital|Venture Capital]]
-  - [[Private Equity]]
+  - [[Vocabulary/Private Equity]]
   - [[Capital Calls]]
   - [[Carried Interest]]
   - [[Limited Partnership Agreement]]

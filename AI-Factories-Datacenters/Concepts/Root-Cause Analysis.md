@@ -1,8 +1,9 @@
 ---
 date_created: 2026-10-05
-date_modified: 2026-10-06
+date_modified: 2026-11-14
 aliases:
   - RCA
+  - Root Cause Analysis
 site_uuid: 3c969866-8849-4785-96ff-706a7388000e
 publish: true
 title: Root-Cause Analysis
@@ -13,6 +14,7 @@ tags:
   - Operations-Software-DCIM-AI-Ops
 for_clients:
   - Edviro
+ali:
 ---
 ## Retrieved sources
 

@@ -21,7 +21,7 @@ cf_last_run_retrieval: 2026-10-06T01:26:41.733Z
 https://www.getbild.com/cloud-native-pdm
 
 [[Vocabulary/Software Bill of Materials|Software Bill of Materials]]
-[[Bill of Materials]]
+[[Vocabulary/Bill of Materials]]
 
 ## Retrieved sources
 https://getbild.com/ [^E1]

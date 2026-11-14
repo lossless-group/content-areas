@@ -16,7 +16,7 @@ slug: sacra
 at_semantic_version: 0.0.0.1
 ---
 [[Vocabulary/Private Markets|Private Markets]]
-[[Private Equity]]
+[[Vocabulary/Private Equity]]
 [[Vocabulary/Venture Capital|Venture Capital]]
 [[content-areas/Finance/Private-Markets/VC Stack|VC Stack]]
 
