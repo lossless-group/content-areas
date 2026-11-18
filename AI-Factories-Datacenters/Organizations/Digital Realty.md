@@ -111,7 +111,7 @@ Public reporting indicates that hyperscale lease rates varied by contract and ma
 
 ## Revenue Trajectory Estimates
 
-The supplied entity profile reports annual revenue of **$6.112692 billion**. [^E1] Digital Realty’s second-quarter 2026 bookings were reported at $307 million of annualized [[Generally Accepted Accounting Principles]] base rent at 100% share, including $208 million at Digital Realty’s share. [^ok801c]
+The supplied entity profile reports annual revenue of **$6.112692 billion**. [^E1] Digital Realty’s second-quarter 2026 bookings were reported at $307 million of annualized [[Vocabulary/Generally Accepted Accounting Principles]] base rent at 100% share, including $208 million at Digital Realty’s share. [^ok801c]
 
 # Competitive Landscape
 

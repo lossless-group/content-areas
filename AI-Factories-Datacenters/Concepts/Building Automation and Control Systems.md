@@ -66,7 +66,7 @@ The boundary is disputed at three edges: some market reports include access cont
 
 - Automated Logic, a [[content-areas/AI-Factories-Datacenters/Organizations/Carrier]] business, acquired Logical Building Automation in May 2025 to expand its international presence and strengthen its building-automation and controls position. [^zu1ttb]
 
-- [[Johnson Controls]] acquired Dutch building-automation provider Webeasy in January 2025, an example of incumbent consolidation around European automation capabilities. [^zu1ttb]
+- [[content-areas/AI-Factories-Datacenters/Organizations/Johnson Controls]] acquired Dutch building-automation provider Webeasy in January 2025, an example of incumbent consolidation around European automation capabilities. [^zu1ttb]
 
 - Report taxonomies increasingly separate software growth from hardware growth: Mordor identifies hardware as the largest component while forecasting faster software expansion, reinforcing a shift from project-led controls toward recurring analytics and optimization. [^ai3kwt]
 

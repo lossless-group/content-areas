@@ -128,7 +128,7 @@ It is not positioned for small sites without complex energy infrastructure, suff
 | [EkkoSense](https://www.ekkosense.com/)                                                                           | Data-center efficiency platform focused on conditions and performance inside the data-center room. [^p5zb5a]                                                                                        |
 | [Siemens Building X](https://www.siemens.com/global/en/products/building-technologies/building-x.html)            | [[organizations/Siemens]] Building-operations and energy-management alternative for sites using a large controls ecosystem.                                                                                       |
 | [Schneider Electric EcoStruxure](https://www.se.com/ww/en/work/solutions/for-business/data-centers-and-networks/) | [[content-areas/AI-Factories-Datacenters/Organizations/Schneider Electric\|Schneider Electric]] Data-center infrastructure, monitoring, and management platform spanning power and cooling systems. |
-| [Johnson Controls OpenBlue](https://www.johnsoncontrols.com/openblue)                                             | [[Johnson Controls]] Building and industrial optimization suite with controls, analytics, and energy-management capabilities.                                                                       |
+| [Johnson Controls OpenBlue](https://www.johnsoncontrols.com/openblue)                                             | [[content-areas/AI-Factories-Datacenters/Organizations/Johnson Controls]] Building and industrial optimization suite with controls, analytics, and energy-management capabilities.                                                                       |
 
 
 ***
