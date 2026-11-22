@@ -6,7 +6,7 @@ aliases:
 tags:
   - Private-Markets-Organizations
 date_created: 2026-11-03
-date_modified: 2026-11-04
+date_modified: 2026-11-19
 site_uuid: 5321caf9-31f6-46da-b3c7-6ce1bf0c877d
 publish: true
 title: Limited Partners
@@ -24,7 +24,9 @@ cf_last_run_model: Perplexity sonar-pro
 ---
 
 [[content-areas/Finance/Private-Markets/Concepts/High Net Worth Individuals|HNWIs]]
-[[Vocabulary/Single Family Offices]]
+[[Vocabulary/Single Family Offices|Single Family Offices]]
+
+
 
 # Defining and Describing Limited Partners
 
