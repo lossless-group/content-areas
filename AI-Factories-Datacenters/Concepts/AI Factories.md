@@ -32,7 +32,7 @@ for_clients:
 
 
 
-[[Tooling/AI-Toolkit/Model Producers/xAI]]
+[[Tooling/AI-Toolkit/Model Producers/SpaceXSI]]
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Lambda Labs|Lambda Labs]]
 [[Tooling/AI-Toolkit/AI Infrastructure/Modal|Modal]]

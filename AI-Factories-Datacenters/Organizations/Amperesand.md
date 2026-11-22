@@ -1,12 +1,14 @@
 ---
 url: https://amperesand.io/
 og_title: Powering the future of AI data center infrastructure
-og_description: ""
+og_description: Compute isn't the bottleneck anymore. Power is. Amperesand gets your power online 5x faster, in 50% less space, with 24/7 uptime.
 og_image: https://i.imgur.com/eSmT54r.jpeg
 og_favicon: https://amperesand.io/favicons/apple-touch-icon.png
 og_last_fetch: 2026-06-05T21:14:44.739Z
 date_created: 2026-06-03
-date_modified: 2026-10-04
+date_modified: 2026-11-18
+tags:
+  - On-Site-Power-Generators
 ---
 [[client-content/Hypernova/Files/Portfolio/Aalo Atomics|Aalo Atomics]]
 [[Vocabulary/Data Centers|Data Centers]]

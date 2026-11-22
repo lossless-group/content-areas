@@ -82,7 +82,7 @@ A containerized data center is a modular facility housed in a transportable encl
   - [[Data Center Infrastructure]]
   - [[Hyperscale Data Centers]]
   - [[High-Performance Computing]]
-  - [[Technology Adoption Curves]]
+  - [[concepts/Technology Adoption Curves]]
 
 # Usage in Practice
 
